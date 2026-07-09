@@ -9,20 +9,9 @@ Repositório referente ao jogo da disciplina de Tópicos Avançados de Programa�
 </head>
 <body>
 
-  <h1>2026-303-Amunet</h1>
-
-  <p>
-    Repositório referente ao jogo da disciplina de Tópicos Avançados de
-    Programação Orientada a Objetos
-  </p>
-
   <p>
    O menu principal foi desenvolvido com inspiração visual no Egito Antigo, com elementos pixel art que remetem ao ambiente desértico egípcio.
   </p>
-
-  <img src="img/parada.jpg" alt="Imagem do jogo" width="700">
-   <img src="img/egito.jpg" alt="Imagem do jogo" width="700">
-  <p>Amunet:</p>
 
   <!-- Imagem -->
   <img src="img/egito.jpg" alt="Imagem do jogo" width="700">
