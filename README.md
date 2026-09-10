@@ -18,9 +18,7 @@
     Toda a direção arte foi feita em <b>pixel art</b>, combinando iluminação interior, ruínas e móveis característicos da época.
   </p>
 
-  <!-- Imagem -->
-  <img src="img/image.png" alt="Menu do jogo" width="700">
-
+ 
   <h2>Estrutura de Cenas do Projeto (Godot)</h2>
   <p>O projeto é estruturado utilizando a engine Godot e conta com as seguintes cenas e ambientes mapeados[cite: 1]:</p>
 
@@ -33,6 +31,9 @@
       </ul>
     </li>
     <li>
+
+     <!-- Imagem -->
+  <img src="img/image.png" alt="Menu do jogo" width="700">
       <b>Cenas de Cenários e Interação (<code>node2_2d.tscn</code> / <code>node3_2d.tscn</code>):</b>[cite: 1]
       <ul>
         <li><b>Quarto Egípcio:</b> Cenário de fundo em pixel art inspirado em acomodações do Egito Antigo (<code>lucid-origin_Crie_um_fundo...jpg</code>)[cite: 1].</li>
