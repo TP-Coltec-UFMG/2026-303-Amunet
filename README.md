@@ -34,23 +34,32 @@
 
   <img src="img/image.png" alt="Menu do jogo" width="700">
 
+  <li>    
+    <b>Cenas de Cenários, Interação e Desafios:</b>
+    <ul>
+      <li>
+        <b>Quarto Temático e Exploração Inicial:</b> Um ambiente íntimo totalmente modelado em pixel art com estética egípcia, onde o jogador encontra uma mesa interativa contendo um pergaminho antigo de extrema importância para a narrativa. O cenário conta ainda com iluminação por tochas de parede e elementos decorativos de pedra e madeira que constroem a atmosfera de mistério.
+      </li>
+      <li>
+        <b>Corredores e Encontro com NPCs:</b> Nos corredores das ruínas e pirâmides, a protagonista Amunet transita por caminhos estreitos e ladeados por colunas antigas. É nestas áreas de transição que ela se depara com NPCs (personagens não jogáveis) estratégicos, responsáveis por fornecer diálogos enriquecedores, pistas sobre o local e direcionamentos para o prosseguimento da aventura.
+      </li>
+      <li>
+        <b>Sala Principal e Resolução de Puzzles:</b> A câmara central do mapa, caracterizada por sua arquitetura imponente e detalhes hieroglíficos nas paredes, serve como o ponto focal para o grande puzzle do jogo. É neste ambiente que o jogador precisa aplicar a lógica e utilizar as pistas coletadas nos pergaminhos e conversas para resolver o enigma e desbloquear novas áreas.
+      </li>
+    </ul>
+  </li>
+
+  <!-- Imagem da Cena do Jogo -->
+  <li style="list-style: none; margin: 20 0;">
+    <img src="imagens/image.png" alt="Cena do jogo Amunet no quarto com mesa e pergaminho" width="700">
+  </li>
+
   <li>
-  <li>  
-      <b>Cenas de Cenários e Interação
-      <ul>
-        <li><b>Quarto Egípcio:</b> Cenário de fundo em pixel art inspirado em acomodações do Egito Antigo (<code>lucid-origin_Crie_um_fundo...jpg</code>)[cite: 1].</li>
-        <li><b>Mesa de Interação / Visão Superior:</b> Elemento de cenário e puzzle interativo contendo mesas vistas tanto de frente quanto em perspectiva superior/top-down[cite: 1].</li>
-        <li><b>Interior da Pirâmide:</b> Salas e corredores com teto fechado e ambientação temática (<code>gemini-2.5-flash-image...jpg</code>)[cite: 1].</li>
-      </ul>
-    </li>
-    <li>
-      <b>Personagens e Entidades:</b>
-      <ul>
-        <li><b>Amunet:</b> Sprites e arte da protagonista.</li>
-        <li><b>NPCs:</b> Personagens não jogáveis espalhados pelos cenários para interação e progressão de diálogos/questões[cite: 3].</li>
-      </ul>
-    </li>
-  </ul>
+    <b>Protagonista e Interface:</b>
+    <ul>
+      <li><b>Amunet:</b> Design de sprite detalhado da protagonista, acompanhada pelo sistema de UI no canto superior direito que gerencia o inventário de itens e pergaminhos obtidos durante a exploração.</li>
+    </ul>
+  </li>
 
   <!-- ONDE ADICIONAR IMAGEM 2: Imagem do Quarto Egípcio ou da Mesa de Interação -->
   <!-- Exemplo: <img src="imagens/lucid-origin_Crie_um_fundo_em_pixel_art_de_um_quarto_inspirado_no_Egito_Antigo._A_cena_deve_t-0 (1).jpg" alt="Cena do Quarto Egípcio" width="700"> -->
