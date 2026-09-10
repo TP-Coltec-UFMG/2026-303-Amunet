@@ -26,13 +26,12 @@
     <li>
       <b>Menu Principal / Interface de Usuário (UI):</b>
       <ul>
-        <li>Interface baseada em botões de pergaminho antigo (<code>perga.png</code>)[cite: 1].</li>
+        <li>Interface baseada em botões de pergaminho antigo.</li>
         <li>Opções de navegação: <i>Jogar</i>, <i>Configurações</i> e <i>Créditos</i>[cite: 1].</li>
       </ul>
     </li>
     <li>
 
-     <!-- Imagem -->
   <img src="img/image.png" alt="Menu do jogo" width="700">
       <b>Cenas de Cenários e Interação (<code>node2_2d.tscn</code> / <code>node3_2d.tscn</code>):</b>[cite: 1]
       <ul>
