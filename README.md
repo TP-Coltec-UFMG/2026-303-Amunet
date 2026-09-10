@@ -27,7 +27,7 @@
       <b>Menu Principal / Interface de Usuário (UI):</b>
       <ul>
         <li>Interface baseada em botões de pergaminho antigo.</li>
-        <li>Opções de navegação: <i>Jogar</i>, <i>Configurações</i> e <i>Créditos</i>[cite: 1].</li>
+        <li>Opções de navegação: <i>Jogar</i>, <i>Configurações</i> e <i>Créditos</i>.</li>
       </ul>
     </li>
     <li>
