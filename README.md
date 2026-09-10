@@ -19,7 +19,7 @@
   </p>
 
   <!-- Imagem -->
-  <img src="Imagens/image.png" alt="Menu do jogo" width="700">
+  <img src="img/image.png" alt="Menu do jogo" width="700">
 
   <h2>Estrutura de Cenas do Projeto (Godot)</h2>
   <p>O projeto é estruturado utilizando a engine Godot e conta com as seguintes cenas e ambientes mapeados[cite: 1]:</p>
