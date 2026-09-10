@@ -43,7 +43,7 @@
       </li>
       <li>
         <b>Corredores e Encontro com NPCs:</b> Nos corredores das ruínas e pirâmides, a protagonista Amunet transita por caminhos estreitos e ladeados por colunas antigas. É nestas áreas de transição que ela se depara com NPCs (personagens não jogáveis) estratégicos, responsáveis por fornecer diálogos enriquecedores, pistas sobre o local e direcionamentos para o prosseguimento da aventura.
-        <img src="img/quarto.png" alt="Quarto" width="700">
+        <img src="img/corredor.png" alt="Corredor" width="700">
       </li>
       <li>
         <b>Sala Principal e Resolução de Puzzles:</b> A câmara central do mapa, caracterizada por sua arquitetura imponente e detalhes hieroglíficos nas paredes, serve como o ponto focal para o grande puzzle do jogo. É neste ambiente que o jogador precisa aplicar a lógica e utilizar as pistas coletadas nos pergaminhos e conversas para resolver o enigma e desbloquear novas áreas.
