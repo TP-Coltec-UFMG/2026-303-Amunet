@@ -39,7 +39,7 @@
     <ul>
       <li>
         <b>Quarto Temático e Exploração Inicial:</b> Um ambiente modelado em pixel art com estética egípcia, onde o jogador encontra uma mesa interativa contendo um pergaminho antigo. O cenário conta ainda com iluminação por tochas de parede e elementos decorativos de pedra e madeira que constroem a atmosfera de mistério.
-        <img src="img/image(1).png" alt="Menu do jogo" width="700">
+        <img src="img/quarto.png" alt="Quarto" width="700">
       </li>
       <li>
         <b>Corredores e Encontro com NPCs:</b> Nos corredores das ruínas e pirâmides, a protagonista Amunet transita por caminhos estreitos e ladeados por colunas antigas. É nestas áreas de transição que ela se depara com NPCs (personagens não jogáveis) estratégicos, responsáveis por fornecer diálogos enriquecedores, pistas sobre o local e direcionamentos para o prosseguimento da aventura.
