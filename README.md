@@ -33,6 +33,8 @@
     <li>
 
   <img src="img/image.png" alt="Menu do jogo" width="700">
+
+  <li>
       <b>Cenas de Cenários e Interação (<code>node2_2d.tscn</code> / <code>node3_2d.tscn</code>):</b>[cite: 1]
       <ul>
         <li><b>Quarto Egípcio:</b> Cenário de fundo em pixel art inspirado em acomodações do Egito Antigo (<code>lucid-origin_Crie_um_fundo...jpg</code>)[cite: 1].</li>
