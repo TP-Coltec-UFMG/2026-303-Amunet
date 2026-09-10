@@ -47,6 +47,8 @@
       </li>
       <li>
         <b>Sala Principal e Resolução de Puzzles:</b> A câmara central do mapa, caracterizada por sua arquitetura imponente e detalhes hieroglíficos nas paredes, serve como o ponto focal para o grande puzzle do jogo. É neste ambiente que o jogador precisa aplicar a lógica e utilizar as pistas coletadas nos pergaminhos e conversas para resolver o enigma e desbloquear novas áreas.
+        <img src="img/mini.png" alt="Corredor" width="700">
+        <img src="img/game.png" alt="Corredor" width="700">
       </li>
     </ul>
   </li>
